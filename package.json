@@ -1,0 +1,22 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "Vidly Video Broadcasting Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyappansuruttaiyan/vidly.git"
+  },
+  "author": "Ayyappan Suruttaiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayyappansuruttaiyan/vidly/issues"
+  },
+  "homepage": "https://github.com/ayyappansuruttaiyan/vidly#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
